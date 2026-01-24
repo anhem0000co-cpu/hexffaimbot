@@ -11,30 +11,22 @@
     
     "BYPASS_L": [
     {
-      "search": "01 00 a0 e3 1c 00 85 e5 00 70",
-      "replace": "0f 00 a0 e1 1c 00 85 e5 00 70"
+      "search": "0A D8 12 9F E5 54 01 87 E5 00 70 94 E5",
+      "replace": "0A D8 12 9F E5 58 01 87 E5 00 70 94 E5"
     },
     {
-      "search": "54 01 87 e5 00 70",
-      "replace": "24 01 87 e5 00 70"
-    },
-    {
-      "search": "38 51 87 e5 00 70",
-      "replace": "38 51 87 05 00 70"
+      "search": "01 00 A0 E3 1C 00 86 E5 00 70 94 E5 C0 60 95 E5",
+      "replace": "01 00 F0 E3 1C 00 86 E5 00 70 94 E5 C0 60 95 E5"
     }
   ],
   "BYPASS_S": [
     {
-      "search": "0f 00 a0 e1 1c 00 85 e5 00 70",
-      "replace": "01 00 a0 e3 1c 00 85 e5 00 70"
+      "search": "0A D8 12 9F E5 58 01 87 E5 00 70 94 E5",
+      "replace": "0A D8 12 9F E5 54 01 87 E5 00 70 94 E5"
     },
     {
-      "search": "24 01 87 e5 00 70",
-      "replace": "54 01 87 e5 00 70"
-    },
-    {
-      "search": "38 51 87 05 00 70",
-      "replace": "38 51 87 e5 00 70"
+      "search": "01 00 F0 E3 1C 00 86 E5 00 70 94 E5 C0 60 95 E5",
+      "replace": "01 00 A0 E3 1C 00 86 E5 00 70 94 E5 C0 60 95 E5"
     }
   ],
 
